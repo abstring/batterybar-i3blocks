@@ -2,6 +2,8 @@
 
 A compact, system-level BatteryBar interpretation for stock i3bar/i3blocks.
 
+<img width="676" height="24" alt="image" src="https://github.com/user-attachments/assets/d9e1d47d-3b7f-4651-b504-95f67ad58ee8" />
+
 The Python script discovers all `BAT*` power supplies, combines compatible
 measurements, calculates guarded time estimates, and renders a Pango-only
 battery outline, fill, terminal, and centered label. Run `./batterybar.py
