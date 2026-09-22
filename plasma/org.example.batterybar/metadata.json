@@ -1,0 +1,14 @@
+{
+  "KPackageStructure": "Plasma/Applet",
+  "KPlugin": {
+    "Id": "org.example.batterybar",
+    "Name": "BatteryBar",
+    "Description": "A compact battery bar with charge and remaining time",
+    "Icon": "battery",
+    "Category": "System Information",
+    "License": "MIT",
+    "Version": "1.0.0",
+    "Website": "https://github.com/abstring/batterybar-i3blocks"
+  },
+  "X-Plasma-API-Minimum-Version": "6.0"
+}
